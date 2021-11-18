@@ -28,11 +28,11 @@ SELECT o.[OrderId]
       ,o.[Date]
       ,o.[CustomerId]
       ,o.[ProductId]
-	  ,c.[FirstName]
-	  ,c.[LastName]
-	  ,p.[ProductId]
-	  ,p.[Name]
-	  ,p.[Price]
+      ,c.[FirstName]
+      ,c.[LastName]
+      ,p.[ProductId]
+      ,p.[Name]
+      ,p.[Price]
   
   FROM [RetailDb].[dbo].[Order] o
   INNER JOIN [RetailDb].[dbo].[Customer] c
