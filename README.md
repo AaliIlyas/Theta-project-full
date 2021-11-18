@@ -12,7 +12,7 @@ This project composes of the API and the react application. It is necessary for 
 * Open the sln file and run it. You are able to interact with the API using the "swagger" UI that will open in the browser.
 
 For the react app
-* navigate to `react-app`
+* navigate to the react-app folder
 * run `npm install`
 * now you can run `npm start` and it open on a browser. The port does not matter as the CORS allows for anything.
 
