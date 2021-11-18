@@ -42,4 +42,4 @@ SELECT o.[OrderId]
 
 GO
 ```
-The other procedure is ver similar, apart from querying the ProductId twice.
+The other procedure is very similar, apart from querying the ProductId twice.
