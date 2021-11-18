@@ -1,6 +1,6 @@
 # Theta-project
 
-This project composes of the API and the react application. It is necessary for the api to run on "https://localhost:5001" as the frontend fetch requests use that path.
+This project composes of the API and the react application. 
 
 ### SETUP
 
@@ -10,6 +10,8 @@ This project composes of the API and the react application. It is necessary for 
 * `dotnet ef migrations add retail-db`
 * `dotnet ef database update`
 * Open the sln file and run it. You are able to interact with the API using the "swagger" UI that will open in the browser.
+
+It is necessary for the api to run on "https://localhost:5001" as the frontend fetch requests use that path. So make sure it is not using IIS Express but rather "Theta" when you start it. 
 
 For the react app
 * navigate to the react-app folder
