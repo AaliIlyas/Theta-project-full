@@ -1,0 +1,125 @@
+C:\.Training\Theta\obj\Debug\net5.0\Theta.csproj.AssemblyReference.cache
+C:\.Training\Theta\obj\Debug\net5.0\Theta.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Training\Theta\obj\Debug\net5.0\Theta.AssemblyInfoInputs.cache
+C:\.Training\Theta\obj\Debug\net5.0\Theta.AssemblyInfo.cs
+C:\.Training\Theta\obj\Debug\net5.0\Theta.csproj.CoreCompileInputs.cache
+C:\.Training\Theta\obj\Debug\net5.0\Theta.MvcApplicationPartsAssemblyInfo.cs
+C:\.Training\Theta\obj\Debug\net5.0\Theta.MvcApplicationPartsAssemblyInfo.cache
+C:\.Training\Theta\bin\Debug\net5.0\appsettings.Development.json
+C:\.Training\Theta\bin\Debug\net5.0\appsettings.json
+C:\.Training\Theta\bin\Debug\net5.0\Theta.exe
+C:\.Training\Theta\bin\Debug\net5.0\Theta.deps.json
+C:\.Training\Theta\bin\Debug\net5.0\Theta.runtimeconfig.json
+C:\.Training\Theta\bin\Debug\net5.0\Theta.runtimeconfig.dev.json
+C:\.Training\Theta\bin\Debug\net5.0\Theta.dll
+C:\.Training\Theta\bin\Debug\net5.0\ref\Theta.dll
+C:\.Training\Theta\bin\Debug\net5.0\Theta.pdb
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\.Training\Theta\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\.Training\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.Training\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.Training\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.Training\Theta\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\.Training\Theta\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\.Training\Theta\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.Training\Theta\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\.Training\Theta\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\.Training\Theta\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\.Training\Theta\obj\Debug\net5.0\staticwebassets\Theta.StaticWebAssets.Manifest.cache
+C:\.Training\Theta\obj\Debug\net5.0\staticwebassets\Theta.StaticWebAssets.xml
+C:\.Training\Theta\obj\Debug\net5.0\scopedcss\bundle\Theta.styles.css
+C:\.Training\Theta\obj\Debug\net5.0\Theta.RazorTargetAssemblyInfo.cache
+C:\.Training\Theta\obj\Debug\net5.0\Theta.csproj.CopyComplete
+C:\.Training\Theta\obj\Debug\net5.0\Theta.dll
+C:\.Training\Theta\obj\Debug\net5.0\ref\Theta.dll
+C:\.Training\Theta\obj\Debug\net5.0\Theta.pdb
+C:\.Training\Theta\obj\Debug\net5.0\Theta.genruntimeconfig.cache
+C:\.Training\Theta\bin\Debug\net5.0\Humanizer.dll
+C:\.Training\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\appsettings.Development.json
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\appsettings.json
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.exe
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.deps.json
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.runtimeconfig.json
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.runtimeconfig.dev.json
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\ref\Theta.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Theta.pdb
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Castle.Core.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\FakeItEasy.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\FluentAssertions.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Humanizer.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\.Training\Theta project\Theta\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.csproj.AssemblyReference.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.AssemblyInfoInputs.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.AssemblyInfo.cs
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.csproj.CoreCompileInputs.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.MvcApplicationPartsAssemblyInfo.cs
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.MvcApplicationPartsAssemblyInfo.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\staticwebassets\Theta.StaticWebAssets.Manifest.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\staticwebassets\Theta.StaticWebAssets.xml
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\scopedcss\bundle\Theta.styles.css
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.RazorTargetAssemblyInfo.cache
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.csproj.CopyComplete
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.dll
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\ref\Theta.dll
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.pdb
+C:\.Training\Theta project\Theta\obj\Debug\net5.0\Theta.genruntimeconfig.cache

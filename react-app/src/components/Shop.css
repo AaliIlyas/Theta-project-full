@@ -1,0 +1,29 @@
+.shop-page {
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+.shop-headings {
+    display: flex;
+    justify-content: center;
+}
+
+.product-card-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-card {
+    margin: 3px;
+    background-color: azure;
+    width: 20%;
+    text-align: center;
+    border-radius: 7%;
+    border: 2px solid skyblue
+}
+
+button {
+    width: 20%;
+    height: 8%;
+    background-color: skyblue;
+}

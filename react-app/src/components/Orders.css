@@ -1,0 +1,21 @@
+.orders-component {
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.cards-container {
+    display: inline-flex;
+    max-width: 100vw;
+    flex-wrap: wrap;
+}
+
+.order-cards {
+    background-color: rgb(186, 227, 243);
+    margin: 5px;
+    width: fit-content;
+}
+
+.delete-order {
+    width: 100%;
+    height: 15%;
+}
