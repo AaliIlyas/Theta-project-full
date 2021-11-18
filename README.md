@@ -1,5 +1,3 @@
-# Theta-project
-
 This project composes of the API and the react application. 
 
 ### SETUP
